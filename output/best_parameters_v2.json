@@ -1,0 +1,38 @@
+{
+  "lgb": {
+    "lr": 0.047679071873850794,
+    "max_depth": 4,
+    "num_leaves": 48,
+    "subsample": 0.6490327431082694,
+    "colsample_bytree": 0.3464849236150802,
+    "reg_alpha": 0.005654971673860298,
+    "reg_lambda": 2.7254251384173083,
+    "min_child_samples": 15,
+    "min_child_weight": 0.03771617246737518
+  },
+  "xgb": {
+    "lr": 0.09023440053206862,
+    "max_depth": 5,
+    "subsample": 0.6825623700246704,
+    "colsample_bytree": 0.8521969756392651,
+    "colsample_bylevel": 0.3219642372796617,
+    "reg_alpha": 0.001293021050462745,
+    "reg_lambda": 0.044209205790279225,
+    "min_child_weight": 28,
+    "gamma": 0.5586667810536743
+  },
+  "cb": {
+    "lr": 0.14684161158913875,
+    "depth": 3,
+    "l2_leaf_reg": 3.9920375284950738,
+    "subsample": 0.9175613482508492,
+    "colsample_bylevel": 0.9432704417468086,
+    "min_data_in_leaf": 100
+  },
+  "et": {
+    "max_depth": 20,
+    "min_samples_leaf": 13,
+    "min_samples_split": 16,
+    "max_features": 0.6515959352654936
+  }
+}
