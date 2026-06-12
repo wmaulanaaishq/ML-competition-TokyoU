@@ -67,4 +67,4 @@ python run_seed_blend.py
 Berdasarkan log eksperimen terakhir yang dieksekusi, ini adalah batas maksimal keakuratan yang legal (*OOF ROC-AUC*):
 - **Best Single Model (CatBoost)**: ~0.842
 - **Best Single Ensemble (Weighted Rank)**: ~0.8465
-- **Multi-Seed Blended Ensemble**: Puncak probabilitas paling stabil (Digaransi menaikkan skor *Public Leaderboard*).
+- **Multi-Seed Blended Ensemble**: Puncak probabilitas paling stabil
