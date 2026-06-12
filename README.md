@@ -5,8 +5,6 @@
 
 Proyek ini berisi *End-to-End Machine Learning Pipeline* untuk memprediksi apakah seorang atlet akan ditarik (di-*draft*) ke NFL berdasarkan metrik fisik *NFL Combine*. 
 
-Pipeline ini telah dirancang pada taraf kompetisi profesional (*Kaggle-grade*) yang dilengkapi dengan perlindungan *Out-Of-Memory* (OOM), proteksi terhadap kebocoran data (*data leakage*), serta eksekusi *Ensemble Multi-Seed*.
-
 ---
 
 ## 📁 Struktur Folder
