@@ -55,7 +55,7 @@ python nfl_draft_pipeline.py
 *(Hasil akhir akan muncul di folder `output/submission_42.csv`)*
 
 ### Opsi 2: Eksekusi Mode Turnamen (Multi-Seed Blending) 🏆
-Gunakan skrip pembungkus ini untuk hasil paling optimal dan tahan guncangan. Skrip ini akan menjalankan *pipeline* utama sebanyak 3 kali dengan *Seed* yang berbeda, lalu mengambil rata-rata probabilitasnya.
+Skrip ini akan menjalankan *pipeline* utama sebanyak 3 kali dengan *Seed* yang berbeda, lalu mengambil rata-rata probabilitasnya
 ```powershell
 python run_seed_blend.py
 ```
