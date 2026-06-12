@@ -48,15 +48,15 @@ Skrip utama kita melakukan serangkaian operasi kelas berat secara otomatis:
 ## 🚀 Cara Menjalankan
 
 ### Opsi 1: Menjalankan Sekali Jalan (Single Run)
-Gunakan ini jika kamu ingin menguji *pipeline* standar dengan satu pijakan acak (*Random Seed* = 42).
-```powershell
+Gunakan ini jika ingin menguji *pipeline* standar dengan satu pijakan acak (*Random Seed* = 42).
+```vscode terminal
 python nfl_draft_pipeline.py
 ```
 *(Hasil akhir akan muncul di folder `output/submission_42.csv`)*
 
 ### Opsi 2: Eksekusi Mode Turnamen (Multi-Seed Blending) 🏆
 Skrip ini akan menjalankan *pipeline* utama sebanyak 3 kali dengan *Seed* yang berbeda, lalu mengambil rata-rata probabilitasnya
-```powershell
+ vscode terminal
 python run_seed_blend.py
 ```
 *(Hasil akhir akan muncul di folder `output/final_submission_blended.csv`)*
