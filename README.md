@@ -20,7 +20,7 @@ d:\GCI Competition\competition\
 │   └── sample_submission.csv          # Format contoh pengumpulan
 │
 ├── output/                            # Direktori hasil eksekusi (Otomatis)
-│   ├── final_submission_blended.csv   # FILE SUBMISSION TERBAIK (Gunakan ini)
+│   ├── final_submission_blended.csv   # FILE SUBMISSION 
 │   ├── eda_report.md                  # Ringkasan data (EDA) otomatis
 │   ├── best_parameters.json           # Log hyperparameter terbaik (Optuna)
 │   ├── cv_results.csv                 # Log skor tiap fold
@@ -28,7 +28,7 @@ d:\GCI Competition\competition\
 │   └── submission_*.csv               # File submisi individual (Seed 42, 2024, 777)
 │
 ├── nfl_draft_pipeline.py              # SKRIP UTAMA (Otak Pipeline)
-└── run_seed_blend.py                  # SKRIP WRAPPER (Eksekusi Ensembling Multi-Seed)
+└── run_seed_blend.py                  # SKRIP WRAPPER (Eksekusi Ensembling Multi Seed)
 ```
 
 ---
@@ -47,7 +47,7 @@ Skrip utama kita melakukan serangkaian operasi kelas berat secara otomatis:
 
 ---
 
-## 🚀 Cara Menjalankan (*How to Run*)
+## 🚀 Cara Menjalankan
 
 ### Opsi 1: Menjalankan Sekali Jalan (Single Run)
 Gunakan ini jika kamu ingin menguji *pipeline* standar dengan satu pijakan acak (*Random Seed* = 42).
