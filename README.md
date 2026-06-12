@@ -1,4 +1,4 @@
-# 🏈 NFL Draft Prediction - Kaggle Pipeline
+# 🏈 NFL Draft Prediction 
 
 > **GCI Data Science Competition by Matsuo Lab, University of Tokyo** 🇯🇵
 > Proyek ini dikembangkan secara khusus untuk menyelesaikan tantangan kompetisi ilmu data (*Data Science*) dari Laboratorium Matsuo (Matsuo Lab), Universitas Tokyo.
