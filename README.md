@@ -54,7 +54,7 @@ python nfl_draft_pipeline.py
 ```
 *(Hasil akhir akan muncul di folder `output/submission_42.csv`)*
 
-### Opsi 2: Eksekusi Mode Turnamen (Multi-Seed Blending) 🏆
+### Opsi 2: Eksekusi Multi-Seed Blending 
 Skrip ini akan menjalankan *pipeline* utama sebanyak 3 kali dengan *Seed* yang berbeda, lalu mengambil rata-rata probabilitasnya
  vscode terminal
 python run_seed_blend.py
