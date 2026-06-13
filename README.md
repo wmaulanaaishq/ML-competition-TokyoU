@@ -3,7 +3,7 @@
 > **GCI Data Science Competition by Matsuo Lab, University of Tokyo** 🇯🇵
 > Proyek ini dikembangkan secara khusus untuk menyelesaikan kompetisi Data Science dari Laboratorium Matsuo (Matsuo Lab), Universitas Tokyo.
 
-Proyek ini berisi *End-to-End Machine Learning Pipeline* untuk memprediksi apakah seorang atlet akan ditarik (di-*draft*) ke NFL berdasarkan metrik fisik *NFL Combine*. 
+Proyek ini berisi *End-to-End Machine Learning Pipeline* untuk memprediksi apakah seorang atlet akan ditarik (di-*draft*) ke NFL berdasarkan metrik fisik NFL Combine
 
 ---
 
