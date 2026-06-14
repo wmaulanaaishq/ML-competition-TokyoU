@@ -42,9 +42,7 @@ Skrip utama kita melakukan serangkaian operasi kelas berat secara otomatis:
 4. **Stacking & Ensembling**: 
    - Memadukan prediksi menggunakan algoritma `LogisticRegression` (Stacking).
    - Memiliki komparasi `Simple Average`, `Rank Average`, dan `Weighted Rank Average`.
-
 ---
-
 ## 🚀 Cara Menjalankan
 
 ### Opsi 1: Menjalankan Sekali Jalan (Single Run)
