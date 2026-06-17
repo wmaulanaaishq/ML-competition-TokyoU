@@ -5,8 +5,6 @@
 
 Proyek ini berisi *End-to-End Machine Learning Pipeline* untuk memprediksi apakah seorang atlet akan ditarik (di-*draft*) ke National Football League berdasarkan metrik fisik NFL Combine
 
----
-
 ## 📁 Struktur Folder
 
 ```text
